@@ -438,9 +438,9 @@ html {
 }
 
 .course-category-item:hover {
-  background: var(--red-orange-color-wheel);
-  border-color: var(--red-orange-color-wheel);
-  box-shadow: 0 10px 50px -20px var(--red-orange-color-wheel);
+  background: var(--roxo);
+  border-color: var(--roxo);
+  box-shadow: 0 10px 50px -20px var(--roxo);
 }
 
 .category-icon { width: 50px; }
