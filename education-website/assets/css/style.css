@@ -57,10 +57,10 @@ html {
 
 ::-webkit-scrollbar-thumb {
   border-radius: 10px;
-  background: var(--red-orange-color-wheel);
+  background: var(--roxo);
 }
 
-::-webkit-scrollbar-thumb:hover { background: var(--ultramarine-blue); }
+::-webkit-scrollbar-thumb:hover { background: var(--roxo1); }
 
 
 
@@ -400,7 +400,6 @@ html {
   filter: drop-shadow(0 10px 20px hsla(0, 0%, 0%, 0.2));
   z-index: 5;
 }
-
 
 
 
