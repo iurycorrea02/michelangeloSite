@@ -60,7 +60,7 @@ html {
   background: var(--roxo);
 }
 
-::-webkit-scrollbar-thumb:hover { background: var(--roxo1); }
+::-webkit-scrollbar-thumb:hover { background: var(--blue-marine); }
 
 
 
@@ -1374,7 +1374,7 @@ html {
   top:  0;
   left: 50%;
   transform: translate(-50%, -50%);
-  background: var(--ultramarine-blue);
+  background: var(--blue-marine);
   width: calc(100% - var(--px));
   padding: 30px 20px;
   display: grid;
@@ -1424,7 +1424,7 @@ footer { background: var(--oxford-blue); }
 .footer-text {
   font-family: "Roboto", sans-serif;
   font-size: var(--fs-6);
-  color: var(--lavender-blue);
+  color: var(--blue-marine);
   margin-bottom: 35px;
   line-height: 1.6;
 }
