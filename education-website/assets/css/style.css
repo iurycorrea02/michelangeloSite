@@ -738,7 +738,7 @@ html {
 }
 
 .manual-btn{
-  border: 2px solid var(--roxo);
+  border: 5px solid var(--roxo);
   padding: 5px;
   border-radius: 10px;
   cursor: pointer;
@@ -827,7 +827,7 @@ html {
 }
 
 .navigation-auto div{
-  border: 2px solid var(--blue-crayola);
+  border: 5px solid var(--blue-crayola);
   padding: 5px;
   border-radius: 10px;
   transition: 1s;
@@ -1446,7 +1446,7 @@ footer { background: var(--oxford-blue); }
   transition: var(--default-transition);
 }
 
-.social-link a:hover { background: var(--red-orange-color-wheel); }
+.social-link a:hover { background: var(--salmao); }
 
 .social-link ion-icon {
   font-size: 20px;
@@ -1471,7 +1471,7 @@ footer { background: var(--oxford-blue); }
 
 .grid-item .list-item a:hover {
   transform: translateX(10px);
-  color: var(--red-orange-color-wheel);
+  color: var(--sonic-silver);
 }
 
 .grid-item .wrapper {
