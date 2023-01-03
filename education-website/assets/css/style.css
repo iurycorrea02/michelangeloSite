@@ -437,7 +437,7 @@ html {
 }
 
 .course-category-item:hover {
-  background: var(--roxo);
+  background: var(--salmao);
   border-color: var(--roxo);
   box-shadow: 0 10px 50px -20px var(--roxo);
 }
@@ -478,7 +478,10 @@ html {
   background: var(--cultured);
   overflow: hidden;
 }
-
+.about-left .section-title {
+  text-align:center;
+  margin-bottom: 10px;
+}
 .about-left .img-box { position: relative; }
 
 .about-left img { position: absolute; }
@@ -497,18 +500,16 @@ html {
 .about-left .icon-1 {
   top: 130px;
   right: 0;
-  z-index: 5;
+  z-index: 2;
+}
+.about-left .icon-3 {
+  top: -200px;
+  right: -50;
+  z-index: 3;
 }
 
+
 .about-left .icon-2 { display: none; }
-
-.about-right { padding-top: 50px; }
-
-.about-right .section-subtitle { margin-bottom: 10px; }
-
-.about-right .section-title { margin-bottom: 30px; }
-
-.about-right .section-text { margin-bottom: 20px; }
 
 .about-ul { margin-bottom: 40px; }
 
